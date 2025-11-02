@@ -10,10 +10,10 @@
 
 ### 📊 Data Analysis Projects  
 
-#### 📦 E-Commerce Product Delivery Prediction  
-- Analyzed 11,000+ delivery records to identify key factors causing delivery delays.  
-- Built predictive models (Decision Tree, Random Forest) achieving 69% accuracy.  
-- Visualized key metrics using Power BI for stakeholder insights.  
+#### 📦 Brain NCCT Hypodense Region Segmentation & Classification Project   
+- Built an AI model to segment and detect hypodense regions in Brain NCCT scans using deep learning.  
+- Developed an automated pipeline for brain injury detection from CT images using Python and OpenCV.  
+- Created a medical imaging project for early stroke detection with explainable AI visualizations.  
 
 #### 🌡️ Traffic Flow Prediction for Smart Cities  
 - Developed a Random Forest model with 86% accuracy to predict traffic congestion.  
