@@ -6,9 +6,9 @@
 
 ---
 
-## 🚀 Featured Projects  
+# 🚀 Featured Projects  
 
-### 📊 Data Analysis Projects  
+# 📊 Data Analysis Projects  
 
 #### 📦 Brain NCCT Hypodense Region Segmentation & Classification Project   
 - Built an AI model to segment and detect hypodense regions in Brain NCCT scans using deep learning.  
@@ -25,7 +25,7 @@
 
 ---
 
-### 💻 Software Development Projects  
+# 💻 Software Development Projects  
 
 #### 🏠 Real Estate Web App  
 - Built a responsive web app for browsing property listings using HTML, CSS, and JavaScript.  
@@ -37,7 +37,7 @@
 
 ---
 
-### 🛠️ PHP Project  
+# 🛠️ PHP Project  
 
 #### 🚚 Courier Management System  
 - Developed backend functionality in PHP with MySQL for managing shipments.  
@@ -45,14 +45,14 @@
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats  
 
 ![Ashwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwani4545&show_icons=true&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani4545&layout=compact&theme=radical)  
 
 ---
 
-## 📫 Let’s Connect  
+# 📫 Let’s Connect  
 
 [LinkedIn](https://linkedin.com/in/ashwanipandey1) | [Email](mailto:ashwanipandey4545@gmail.com)  
 
