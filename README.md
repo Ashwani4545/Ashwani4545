@@ -20,8 +20,9 @@
 - Built interactive Tableau dashboards for visualizing peak traffic patterns.  
 
 #### 💰 Fraud Detection in Online Transactions  
-- Created a fraud detection system with 91% accuracy using classification models.  
-- Processed large transaction datasets using Python and SQL for anomaly detection.  
+- Designed and developed an AI/ML-based system to analyze regional news content and audience feedback for improving news relevance and credibility.  
+- Implemented real-time feedback collection using Twitter/X APIs, applied NLP for sentiment and correction detection, and visualized insights through an interactive dashboard.
+- Delivered an automated tool providing actionable feedback to regional newsrooms, enhancing content quality and strengthening audience trust. 
 
 ---
 
