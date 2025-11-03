@@ -10,7 +10,7 @@
 
 # 📊 Data Analysis Projects  
 
-#### 📦 Brain NCCT Hypodense Region Segmentation & Classification Project   
+#### 🧠 Brain NCCT Hypodense Region Segmentation & Classification Project   
 - Built an AI model to segment and detect hypodense regions in Brain NCCT scans using deep learning.  
 - Developed an automated pipeline for brain injury detection from CT images using Python and OpenCV.  
 - Created a medical imaging project for early stroke detection with explainable AI visualizations.  
