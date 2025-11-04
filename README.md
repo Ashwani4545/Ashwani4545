@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ashwani Pandey  
 
 💻 Enthusiastic Data Analyst & Software Developer  
-🔧 Skilled in Java, Cpp, Python, R, SQL, PHP, Tableau, Power BI, Git, Data Cleaning, Machine Learning, Web Development  
+🔧 Skilled in Java, Python, R, SQL, PHP, Tableau, Power BI, Git, Data Cleaning, Machine Learning, Web Development  
 🌱 Passionate about solving real-world problems using data-driven insights and efficient software solutions.  
 
 ---
