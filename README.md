@@ -46,13 +46,6 @@
 
 ---
 
-# 📊 GitHub Stats  
-
-![Ashwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwani4545&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani4545&layout=compact&theme=radical)  
-
----
-
 # 📫 Let’s Connect  
 
 [LinkedIn](https://linkedin.com/in/ashwanipandey1) | [Email](mailto:ashwanipandey4545@gmail.com)  
