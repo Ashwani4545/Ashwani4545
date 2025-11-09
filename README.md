@@ -38,14 +38,6 @@
 
 ---
 
-# 🛠️ PHP Project  
-
-#### 🚚 Courier Management System  
-- Developed backend functionality in PHP with MySQL for managing shipments.  
-- Created dashboards to manage orders and generate operational reports.  
-
----
-
 # 📫 Let’s Connect  
 
 [LinkedIn](https://linkedin.com/in/ashwanipandey1) | [Email](mailto:ashwanipandey4545@gmail.com)  
