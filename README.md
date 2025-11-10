@@ -10,16 +10,16 @@
 
 # 📊 Data Analysis Projects  
 
-#### 🧠 Brain NCCT Hypodense Region Segmentation & Classification Project   
+## 🧠 Brain NCCT Hypodense Region Segmentation & Classification Project   
 - Built an AI model to segment and detect hypodense regions in Brain NCCT scans using deep learning.  
 - Developed an automated pipeline for brain injury detection from CT images using Python and OpenCV.  
 - Created a medical imaging project for early stroke detection with explainable AI visualizations.  
 
-#### 🌡️ Traffic Flow Prediction for Smart Cities  
+## 🌡️ Traffic Flow Prediction for Smart Cities  
 - Developed a Random Forest model with 86% accuracy to predict traffic congestion.  
 - Built interactive Tableau dashboards for visualizing peak traffic patterns.  
 
-#### 📘 Regional Newsroom Feedback System (AI + Twitter/X Integration) 
+## 📘 Regional Newsroom Feedback System (AI + Twitter/X Integration) 
 - Designed and developed an AI/ML-based system to analyze regional news content and audience feedback for improving news relevance and credibility.  
 - Implemented real-time feedback collection using Twitter/X APIs, applied NLP for sentiment and correction detection, and visualized insights through an interactive dashboard.
 - Delivered an automated tool providing actionable feedback to regional newsrooms, enhancing content quality and strengthening audience trust. 
