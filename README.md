@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwani Pandey</h1>
-<h3 align="center">Aspiring Data Analyst | Python • R • SQL • Tableau • Power BI</h3>
+<h3 align="center">Enthusiastic Data Analyst and Software Developer | Python • Java • R • SQL • Tableau • Power BI</h3>
 
 ---
 
