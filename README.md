@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwani Pandey</h1>
-<h3 align="center">Enthusiastic Data Analyst and Software Developer | Python • Java • R • SQL • Tableau • Power BI</h3>
+<h3 align="center">Enthusiastic Data Analyst and Software Developer | Python • Java • R • SQL • Tableau • Power BI • IoT</h3>
 
 ---
 
@@ -40,6 +40,8 @@
 #### 📌 **Database**
 ![MySql](https://img.shields.io/badge/MySql-E97627?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDb-F2C811?style=for-the-badge&logo=mongodb&logoColor=black)
+![PostgreSql](https://img.shields.io/badge/PostgreSql-E97627?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F2C811?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
