@@ -43,6 +43,12 @@
 ![PostgreSql](https://img.shields.io/badge/PostgreSql-E97627?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F2C811?style=for-the-badge&logo=firebase&logoColor=black)
 
+#### 📌 **Technologies**
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-E97627?style=for-the-badge&logo=jupyter-notebook&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google-Colab-F2C811?style=for-the-badge&logo=google-colab&logoColor=black)
+![VS-Code](https://img.shields.io/badge/VS-Code-E97627?style=for-the-badge&logo=vs-code&logoColor=white)
+![Selenium-IDE](https://img.shields.io/badge/Selenium-IDE-F2C811?style=for-the-badge&logo=selenium-ide&logoColor=black)
+
 ---
 
 ### 📦 Featured Projects
