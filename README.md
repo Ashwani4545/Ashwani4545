@@ -51,7 +51,7 @@ I enjoy solving challenges related to predictive modeling, data preprocessing, m
 
 ---
 
-#### What I'm Working On
+### What I'm Working On
 
 🔹I am currently deepening my expertise in:
 
@@ -66,6 +66,20 @@ I enjoy solving challenges related to predictive modeling, data preprocessing, m
 🔹Dashboards and visual analytics using Power BI, Tableau, and Plotly
 
 🔹Full-stack ML apps using Flask, Streamlit, and REST APIs
+
+---
+
+### Current Focus Areas
+
+🔹Medical image segmentation using computer vision
+
+🔹NLP-powered feedback analysis systems
+
+🔹Fraud detection using machine learning
+
+🔹Data storytelling through dashboards and EDA
+
+🔹Improving ML model interpretability and explainability
 
 ---
 
