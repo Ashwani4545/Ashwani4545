@@ -4,10 +4,10 @@
 ---
 
 ### 🚀 About Me  
-🔹 Passionate about transforming raw data into meaningful insights  
-🔹 Skilled in Python, SQL, Tableau, Power BI, and Web Development  
-🔹 Working on real-world analytics + IoT based projects  
-🔹 Love solving data problems & building dashboards that tell stories  
+
+I am a Data Science postgraduate student with a strong focus on machine learning, AI-based applications, and data-driven problem solving. My work revolves around building intelligent systems, performing statistical analysis, and creating end-to-end analytical workflows that deliver real insights.
+
+I enjoy solving challenges related to predictive modeling, data preprocessing, medical imaging, NLP, and real-time analytics, and I love turning raw datasets into meaningful, actionable information. 
 
 ---
 
