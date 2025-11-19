@@ -100,26 +100,6 @@ and contribute to solutions that improve decision-making and create measurable v
 
 ---
 
-###  Featured Projects
-
-#### 🔹 **Courier Management System**  
-PHP-based system to track shipments, manage couriers, and generate reports.  
-🔗 Repo: https://github.com/Ashwani4545/Courier-Management
-
-#### 🔹 **Weather Station using ESP32**  
-IoT weather station sending temp, humidity & atmospheric data to cloud.  
-🔗 Repo: https://github.com/Ashwani4545/WeatherStation_ESP32
-
-#### 🔹 **SmartStick for Visually Impaired**  
-Raspberry Pi–powered smart blind stick with obstacle detection & real-time feedback.  
-🔗 Repo: https://github.com/Ashwani4545/SmartStick
-
-#### 🔹 **Real Estate Web App**  
-Responsive property browsing website built with HTML, CSS, and JavaScript.  
-🔗 Repo: https://github.com/Ashwani4545/Housing-Project-WebDev
-
----
-
 ###  Connect With Me
 
 <p align="left">
