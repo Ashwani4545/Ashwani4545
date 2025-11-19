@@ -83,6 +83,23 @@ I enjoy solving challenges related to predictive modeling, data preprocessing, m
 
 ---
 
+###  Professional Goal
+
+My goal is to build AI-powered systems that are not only technically accurate but also useful, interpretable, and impactful in real-world scenarios.
+I aim to work at the intersection of:
+
+Data Science
+
+AI for Healthcare
+
+Predictive Analytics
+
+Intelligent Automation
+
+and contribute to solutions that improve decision-making and create measurable value.
+
+---
+
 ###  Featured Projects
 
 #### 🔹 **Courier Management System**  
@@ -100,15 +117,6 @@ Raspberry Pi–powered smart blind stick with obstacle detection & real-time fee
 #### 🔹 **Real Estate Web App**  
 Responsive property browsing website built with HTML, CSS, and JavaScript.  
 🔗 Repo: https://github.com/Ashwani4545/Housing-Project-WebDev
-
----
-
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashwani4545&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani4545&layout=compact&theme=tokyonight" height="160" />
-</p>
 
 ---
 
