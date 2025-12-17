@@ -12,7 +12,6 @@ I enjoy solving challenges related to predictive modeling, data preprocessing, m
 ---
 
 ###  Tech Stack
-
 ####  **Programming & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white)
