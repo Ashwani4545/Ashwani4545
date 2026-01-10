@@ -60,7 +60,6 @@ I enjoy solving challenges related to predictive modeling, data preprocessing, m
 🔹Dashboards and visual analytics using Power BI, Tableau, and Plotly
 🔹Full-stack ML apps using Flask, Streamlit, and REST APIs
 
-
 ---
 
 ###  Professional Goal
