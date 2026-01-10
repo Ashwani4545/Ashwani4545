@@ -76,7 +76,7 @@ I aim to work at the intersection of:
 
 🔹Data Science
 
-AI for Healthcare
+🔹AI for Healthcare
 
 Predictive Analytics
 
