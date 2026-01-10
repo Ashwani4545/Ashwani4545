@@ -80,7 +80,7 @@ I aim to work at the intersection of:
 
 🔹Predictive Analytics
 
-Intelligent Automation
+🔹Intelligent Automation
 
 and contribute to solutions that improve decision-making and create measurable value.
 
