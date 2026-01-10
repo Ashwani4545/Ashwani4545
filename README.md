@@ -78,7 +78,7 @@ I aim to work at the intersection of:
 
 🔹AI for Healthcare
 
-Predictive Analytics
+🔹Predictive Analytics
 
 Intelligent Automation
 
