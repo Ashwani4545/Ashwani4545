@@ -74,7 +74,7 @@ I enjoy solving challenges related to predictive modeling, data preprocessing, m
 My goal is to build AI-powered systems that are not only technically accurate but also useful, interpretable, and impactful in real-world scenarios.
 I aim to work at the intersection of:
 
-Data Science
+🔹Data Science
 
 AI for Healthcare
 
