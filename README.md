@@ -53,11 +53,17 @@ I enjoy solving challenges related to predictive modeling, data preprocessing, m
 ### What I'm Working On
 
 🔹I am currently deepening my expertise in:
+
 🔹Machine Learning and Deep Learning (classification, regression, medical image analysis)
+
 🔹Python-based data pipelines using Pandas, NumPy, Scikit-learn
+
 🔹Statistical modeling and hypothesis testing
+
 🔹AI + IoT integrations
+
 🔹Dashboards and visual analytics using Power BI, Tableau, and Plotly
+
 🔹Full-stack ML apps using Flask, Streamlit, and REST APIs
 
 ---
@@ -68,8 +74,11 @@ My goal is to build AI-powered systems that are not only technically accurate bu
 I aim to work at the intersection of:
 
 🔹Data Science
+
 🔹AI for Healthcare
+
 🔹Predictive Analytics
+
 🔹Intelligent Automation
 
 and contribute to solutions that improve decision-making and create measurable value.
