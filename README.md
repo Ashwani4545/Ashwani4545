@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwani Pandey</h1>
 <h3 align="center">Enthusiastic Data Analyst and Software Developer | Python • Java • R • SQL • Tableau • Power BI • IoT</h3>
----
 
 ###  About Me  
 
