@@ -7,6 +7,7 @@ I am a Data Science postgraduate student with a strong focus on machine learning
 I enjoy solving challenges related to predictive modeling, data preprocessing, medical imaging, NLP, and real-time analytics, and I love turning raw datasets into meaningful, actionable information. 
 
 ---
+
 ###  Tech Stack
 ####  **Programming & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
