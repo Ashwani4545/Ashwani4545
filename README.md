@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashwani Pandey</h1>
-<h3 align="center">Enthusiastic Data Analyst and Software Developer | Python • Java • R • SQL • Tableau • Power BI • IoT</h3>
+<h3 align="center">Enthusiastic Data Analyst| Python • Java • R • SQL • Tableau • Power BI • IoT</h3>
 
 ###  About Me  
 I am a Data Science postgraduate student with a strong focus on machine learning, AI-based applications, and data-driven problem solving. My work revolves around building intelligent systems, performing statistical analysis, and creating end-to-end analytical workflows that deliver real insights.
----
+
 
 ###  Tech Stack
 ####  **Programming & Data**
@@ -11,14 +11,6 @@ I am a Data Science postgraduate student with a strong focus on machine learning
 ![java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-
-####  **Web Development**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-F7DF1E?style=for-the-badge&logo=react.js&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-E34F26?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-1572B6?style=for-the-badge&logo=express.js3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ####  **IoT & Embedded**
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
@@ -40,8 +32,6 @@ I am a Data Science postgraduate student with a strong focus on machine learning
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-E97627?style=for-the-badge&logo=jupyter-notebook&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google-Colab-F2C811?style=for-the-badge&logo=google-colab&logoColor=black)
 ![VS-Code](https://img.shields.io/badge/VS-Code-E97627?style=for-the-badge&logo=vs-code&logoColor=white)
-![Selenium-IDE](https://img.shields.io/badge/Selenium-IDE-F2C811?style=for-the-badge&logo=selenium-ide&logoColor=black)
-
 ---
 
 ### What I'm Working On
