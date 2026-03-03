@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwani Pandey</h1>
-<h3 align="center">Enthusiastic Data Analyst| Python • Java • R • SQL • Tableau • Power BI • IoT</h3>
+<h3 align="center">Enthusiastic Data Analyst | Python • Java • R • SQL • Tableau • Power BI • IoT</h3>
 
 ###  About Me  
 I am a Data Science postgraduate student with a strong focus on machine learning, AI-based applications, and data-driven problem solving. My work revolves around building intelligent systems, performing statistical analysis, and creating end-to-end analytical workflows that deliver real insights.
