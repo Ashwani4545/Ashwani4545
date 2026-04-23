@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwanipandey1/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashwanipandey4545@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ashwanipandey&style=flat-square&color=0A66C2)](https://github.com/ashwanipandey)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ashwani4545&style=flat-square&color=0A66C2)](https://github.com/Ashwani4545)
 
 </div>
 
@@ -61,11 +61,17 @@ I care about work that's not just technically sound, but genuinely useful.
 
 ## GitHub Stats
 
+> **950+ contributions in the last year** — consistently shipping, learning, and building.
+
 <div align="center">
 
-![Ashwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwanipandey&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashwani4545&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideLabels=555555&dates=555555&currStreakNum=111111&sideNums=111111)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanipandey&layout=compact&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff)
+![Ashwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwani4545&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani4545&layout=compact&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashwani4545&bg_color=ffffff&color=0A66C2&line=0A66C2&point=0A66C2&area=true&hide_border=true)
 
 </div>
 
