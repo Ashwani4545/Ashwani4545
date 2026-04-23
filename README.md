@@ -1,78 +1,84 @@
-<h1 align="center">Hi 👋, I'm Ashwani Pandey</h1>
-<h3 align="center">Enthusiastic Data Analyst | Python • Java • R • SQL • Tableau • Power BI • IoT</h3>
+<div align="center">
 
-###  About Me  
-I am a Data Science postgraduate student with a strong focus on machine learning, AI-based applications, and data-driven problem solving. My work revolves around building intelligent systems, performing statistical analysis, and creating end-to-end analytical workflows that deliver real insights.
+# Ashwani Pandey
 
+**Data Scientist · ML Engineer · IoT Builder**
 
-###  Tech Stack
-####  **Programming & Data**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwanipandey1/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashwanipandey4545@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ashwanipandey&style=flat-square&color=0A66C2)](https://github.com/ashwanipandey)
 
-####  **IoT & Embedded**
-![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif8266&logoColor=white)
-![RaspberryPi-5](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-####  **Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-####  **Database**
-![MySql](https://img.shields.io/badge/MySql-E97627?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDb](https://img.shields.io/badge/MongoDb-F2C811?style=for-the-badge&logo=mongodb&logoColor=black)
-![PostgreSql](https://img.shields.io/badge/PostgreSql-E97627?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F2C811?style=for-the-badge&logo=firebase&logoColor=black)
-
-####  **Technologies**
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-E97627?style=for-the-badge&logo=jupyter-notebook&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google-Colab-F2C811?style=for-the-badge&logo=google-colab&logoColor=black)
-![VS-Code](https://img.shields.io/badge/VS-Code-E97627?style=for-the-badge&logo=vs-code&logoColor=white)
----
-
-### What I'm Working On
-
-I am currently deepening my expertise in:
-
-🔹Machine Learning and Deep Learning (classification, regression, medical image analysis)
-
-🔹Statistical modeling and hypothesis testing
-
-🔹AI + IoT integrations
-
-🔹Full-stack ML apps using Flask, Streamlit, and REST APIs
+</div>
 
 ---
 
-###  Professional Goal
+## About
 
-My goal is to build AI-powered systems that are not only technically accurate but also useful, interpretable, and impactful in real-world scenarios.
-I aim to work at the intersection of:
+I'm a **Data Science postgraduate** passionate about building intelligent systems that sit at the intersection of machine learning, statistical reasoning, and real-world deployment. My focus is on end-to-end pipelines — from raw data to interpretable, production-ready models.
 
-🔹Data Science
-
-🔹Predictive Analytics
-
-🔹Intelligent Automation
-
-and contribute to solutions that improve decision-making and create measurable value.
+I care about work that's not just technically sound, but genuinely useful.
 
 ---
 
-###  Connect With Me
+## What I'm Building
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ashwanipandey1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ashwanipandey4545@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+```
+◈  Classification & regression models (medical image analysis, tabular data)
+◈  Statistical modeling and hypothesis testing pipelines
+◈  AI + IoT integrations using ESP32, Arduino, and Raspberry Pi
+◈  Full-stack ML apps with Flask, Streamlit, and REST APIs
+```
 
 ---
-⭐ **Thanks for visiting my profile!**
+
+## Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
+#### Data & Visualization
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+#### IoT & Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Ashwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwanipandey&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanipandey&layout=compact&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff)
+
+</div>
+
+---
+
+## Goals
+
+I aim to work at the intersection of **data science**, **predictive analytics**, and **intelligent automation** — building systems that improve decision-making and create measurable value. My north star: models that are accurate, interpretable, and deployable.
+
+---
+
+<div align="center">
+
+*Open to collaborations, research discussions, and interesting problems.*
+
+</div>
