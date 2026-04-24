@@ -1,12 +1,21 @@
 <div align="center">
 
-# Ashwani Pandey
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=160&section=header&text=Ashwani%20Pandey&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20IoT%20Builder&descAlignY=58&descSize=16&descColor=c9d8f0&animation=fadeIn" width="100%"/>
 
-**Data Scientist · ML Engineer · IoT Builder**
+<br/>
+
+> *"Building AI that's accurate, interpretable, and actually useful."*
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwanipandey1/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashwanipandey4545@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ashwani4545&style=flat-square&color=0A66C2)](https://github.com/Ashwani4545)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashwani4545)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ashwani4545&style=flat-square&color=0A66C2&label=Profile+Views)](https://github.com/Ashwani4545)
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Statistical+Modeling+%7C+Hypothesis+Testing;AI+%2B+IoT+Integrations;Flask+%7C+Streamlit+%7C+REST+APIs)
 
 </div>
 
