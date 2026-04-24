@@ -23,9 +23,19 @@
 
 ## About
 
-I'm a **Data Science postgraduate** passionate about building intelligent systems that sit at the intersection of machine learning, statistical reasoning, and real-world deployment. My focus is on end-to-end pipelines — from raw data to interpretable, production-ready models.
+```python
+class Ashwani:
+    name       = "Ashwani Pandey"
+    education  = "M.Sc. Data Science (Postgraduate)"
+    focus      = ["Machine Learning", "Statistical Modeling", "AI + IoT"]
+    builds     = "End-to-end pipelines · raw data → production-ready models"
+    philosophy = "Not just technically sound — genuinely useful."
+    status     = "Open to collaborations & research discussions"
+```
 
-I care about work that's not just technically sound, but genuinely useful.
+Postgraduate in Data Science with a drive to build systems that sit at the intersection of **machine learning**, statistical reasoning, and real-world deployment. I care deeply about the full pipeline — not just model accuracy, but interpretability, robustness, and actual impact.
+
+> *"The best model is the one that gets used — not the one with the best validation score."*
 
 ---
 
