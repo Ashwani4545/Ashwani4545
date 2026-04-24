@@ -80,17 +80,30 @@ Postgraduate in Data Science with a drive to build systems that sit at the inter
 
 ## GitHub Stats
 
-> **950+ contributions in the last year** — consistently shipping, learning, and building.
-
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashwani4545&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideLabels=555555&dates=555555&currStreakNum=111111&sideNums=111111)
+<!-- Live streak — updates every day automatically -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ashwani4545&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideLabels=0A66C2&dates=888888&currStreakNum=111111&sideNums=111111&stroke=E6F1FB&background=ffffff)](https://git.io/streak-stats)
 
-![Ashwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwani4545&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff&include_all_commits=true&count_private=true)
+<!-- General stats — updates on every page load, counts private commits too -->
+[![Ashwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwani4545&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=444444&bg_color=ffffff&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged)](https://github.com/Ashwani4545)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani4545&layout=compact&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff)
+<!-- Top languages — refreshes on every render -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani4545&layout=compact&hide_border=true&title_color=0A66C2&text_color=444444&bg_color=ffffff&langs_count=8)](https://github.com/Ashwani4545)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashwani4545&bg_color=ffffff&color=0A66C2&line=0A66C2&point=0A66C2&area=true&hide_border=true)
+</div>
+
+<!-- Trophy shelf — recalculates ranks daily -->
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Ashwani4545&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7&title=Commits,Stars,Repositories,Followers,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<!-- Contribution heatmap — live, rebuilds from GitHub events API daily -->
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashwani4545&bg_color=ffffff&color=0A66C2&line=0A66C2&point=185FA5&area=true&area_color=E6F1FB&hide_border=true&radius=6)](https://github.com/ashwani4545)
 
 </div>
 
