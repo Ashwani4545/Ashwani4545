@@ -26,7 +26,7 @@
 ```python
 class Ashwani:
     name       = "Ashwani Pandey"
-    education  = "M.Sc. Data Science (Postgraduate)"
+    education  = "MCA - Data Science & IoT (Postgraduate)"
     focus      = ["Machine Learning", "Statistical Modeling", "AI + IoT"]
     builds     = "End-to-end pipelines · raw data → production-ready models"
     philosophy = "Not just technically sound — genuinely useful."
