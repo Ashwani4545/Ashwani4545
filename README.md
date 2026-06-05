@@ -111,7 +111,7 @@ Postgraduate in Data Science with a drive to build systems that sit at the inter
 
 ## Goals
 
-I aim to work at the intersection of **data science**, **predictive analytics**, and **intelligent automation** — building systems that improve decision-making and create measurable value. My north star: models that are accurate, interpretable, and deployable.
+I aim to work at the intersection of **data science**, **predictive analytics**, and **intelligent automation** — building systems that improve decision-making and create measurable values insights. My north star: models that are accurate, interpretable, and deployable.
 
 ---
 
