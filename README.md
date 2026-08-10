@@ -192,17 +192,6 @@ A deep-learning system for automatic detection and segmentation of hypodense reg
 
 ---
 
-### 💳 Credit Card Fraud Detection
-An anomaly-detection system for identifying potentially fraudulent transactions in highly imbalanced data.
-
-- SMOTE-based resampling to address extreme class imbalance
-- Careful feature engineering to surface transaction-level anomaly signals
-- Evaluation focused on precision/recall trade-offs appropriate for fraud (false negatives are costly, false positives erode trust)
-
-`Classification` `Anomaly Detection` `SMOTE` `Feature Engineering`
-
----
-
 ### 📰 [Regional News Sentiment Analysis](https://github.com/Ashwani4545/feedback-on-news-in-regional-media-ML)
 An NLP tool that analyzes regional-language news coverage to surface sentiment, generate summaries, and detect trends — supporting transparent, multi-language media analysis.
 
@@ -222,36 +211,6 @@ An IoT + ML system that monitors real-world energy consumption via ESP32 sensors
 - Power BI dashboarding for operational visibility into usage patterns
 
 `ESP32` `MQTT` `Python` `Scikit-learn` `Power BI` `IoT`
-
----
-
-### 🚦 [Traffic Flow Prediction](https://github.com/Ashwani4545/TrafficFlowPrediction)
-A time-series forecasting project predicting traffic flow patterns to support intelligent transportation analysis.
-
-- Time-series modeling techniques applied to real traffic data
-- Visualization layer for interpreting predicted vs. actual flow patterns
-
-`Time-Series` `Predictive Modeling` `Data Visualization`
-
----
-
-### 🌾 Crop Yield Prediction (Deep Learning)
-A deep-learning system predicting average crop yield across Indian states (Uttar Pradesh, Punjab, West Bengal) to support agricultural planning.
-
-- Deep learning applied to agricultural yield data across multiple states
-- Built to generalize across differing regional growing conditions
-
-`Deep Learning` `Agricultural Analytics` `HTML/Python`
-
----
-
-### 🌦️ IoT Weather Station
-An environmental monitoring system built on ESP32 with DHT22 and BMP180 sensors, streaming to the cloud over MQTT.
-
-- Real-time temperature, humidity, and pressure monitoring
-- MicroPython firmware on ESP32 with MQTT-based cloud reporting
-
-`ESP32` `MicroPython` `DHT22` `BMP180` `MQTT`
 
 ---
 
