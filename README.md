@@ -20,7 +20,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0A0A23&height=3&section=header" width="100%"/>
 
-## <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&duration=1&pause=99999&color=0A0A23&center=true&vCenter=true&width=200&lines=Summary" />
+## 📝 Summary
 
 I'm a postgraduate Data Science & IoT specialist (MCA) who builds complete, production-grade AI systems rather than standalone notebooks. My work spans the full lifecycle of a model: **data collection → statistical analysis → feature engineering → model development → experiment tracking → deployment → monitoring → iteration.**
 
@@ -47,7 +47,7 @@ That philosophy shows up across my project history: fraud detection systems with
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0A0A23&height=3&section=header" width="100%"/>
 
-## <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&duration=1&pause=99999&color=0A0A23&center=true&vCenter=true&width=350&lines=Core+Competencies" />
+## 🧩 Core Competencies
 
 <details open>
 <summary><b>🤖 Machine Learning</b></summary>
@@ -111,7 +111,7 @@ That philosophy shows up across my project history: fraud detection systems with
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0A0A23&height=3&section=header" width="100%"/>
 
-## <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&duration=1&pause=99999&color=0A0A23&center=true&vCenter=true&width=300&lines=Technical+Stack" />
+## 🛠️ Technical Stack
 
 **Languages**
 
@@ -185,7 +185,7 @@ That philosophy shows up across my project history: fraud detection systems with
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0A0A23&height=3&section=header" width="100%"/>
 
-## <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&duration=1&pause=99999&color=0A0A23&center=true&vCenter=true&width=300&lines=Featured+Projects" />
+## 🚀 Featured Projects
 
 ### 🏗️ [SaaS AI Risk Platform](https://github.com/Ashwani4545/saas-ai-risk-platform)
 A multi-tenant machine learning platform designed for production risk-prediction workloads, not just a single model demo.
@@ -247,7 +247,7 @@ An IoT + ML system that monitors real-world energy consumption via ESP32 sensors
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0A0A23&height=3&section=header" width="100%"/>
 
-## <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&duration=1&pause=99999&color=0A0A23&center=true&vCenter=true&width=350&lines=Engineering+Approach" />
+## 🏛️ Engineering Approach
 
 Every project follows the same underlying discipline, regardless of domain:
 
@@ -283,7 +283,7 @@ The goal is always to move from **"training a model"** to **engineering a comple
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0A0A23&height=3&section=header" width="100%"/>
 
-## <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&duration=1&pause=99999&color=0A0A23&center=true&vCenter=true&width=300&lines=GitHub+Activity" />
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -303,7 +303,7 @@ The goal is always to move from **"training a model"** to **engineering a comple
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0A0A23&height=3&section=header" width="100%"/>
 
-## <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&duration=1&pause=99999&color=0A0A23&center=true&vCenter=true&width=350&lines=Currently+Exploring" />
+## 🔬 Currently Exploring
 
 | Area | Focus |
 |---|---|
@@ -314,7 +314,7 @@ The goal is always to move from **"training a model"** to **engineering a comple
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0A0A23&height=3&section=header" width="100%"/>
 
-## <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&duration=1&pause=99999&color=0A0A23&center=true&vCenter=true&width=150&lines=Open+To" />
+## 🤝 Open To
 
 - Full-time or contract roles in Machine Learning / Data Science / MLOps
 - Research collaborations and applied ML case studies
