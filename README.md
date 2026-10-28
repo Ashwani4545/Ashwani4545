@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0A0A23&height=220&section=header&text=Ashwani%20Pandey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20&animation=fadeIn&fontFamily=Poppins" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0A0A23&height=220&section=header&text=Ashwani%20Pandey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Data%20Science%20%7C%20Software%20Developer&descAlignY=58&descSize=20&animation=fadeIn&fontFamily=Poppins" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ashwanipandey1/">
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Building+AI+that's+accurate%2C+interpretable+%26+deployable;End-to-end+ML+Systems+%7C+MLOps+%7C+Generative+AI;From+Raw+Data+to+Production-Ready+Models;Open+to+ML+%2F+Data+Science+Collaborations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Building+Practical+AI%2FML+Solutions;Python+%7C+Machine+Learning+%7C+Data+Science;AI+Applications+%7C+Software+Development;Open+to+AI%2FML+%26+Software+Roles" alt="Typing SVG" />
 </a>
 
 <br>
@@ -22,30 +22,33 @@
 
 ## 📝 Summary
 
-I'm a postgraduate Data Science & IoT specialist (MCA) who builds complete, production-grade AI systems rather than standalone notebooks. My work spans the full lifecycle of a model: **data collection → statistical analysis → feature engineering → model development → experiment tracking → deployment → monitoring → iteration.**
+I'm pursuing an **MCA in Data Science** at Lovely Professional University, with interests in **AI/ML engineering, data science, and software development**. I enjoy turning data and practical problems into working applications—from data preprocessing and feature engineering to model evaluation, APIs, dashboards, and user-facing interfaces.
 
-I care about three things in every system I build:
+My project work spans machine learning for e-commerce delivery prediction, a SaaS AI risk platform, medical-image analysis, regional-news sentiment analysis, and IoT-based energy optimization. I focus on building solutions that are understandable, useful, and demonstrable—not just notebooks.
 
-- **Accuracy** — the model needs to actually work on data it hasn't seen
-- **Interpretability** — stakeholders need to understand *why* a model made a decision, not just trust a black box
-- **Deployability** — a model sitting in a Jupyter notebook creates zero business value; it has to ship
-
-That philosophy shows up across my project history: fraud detection systems with SHAP-based explainability, delivery-delay models wrapped in monitored APIs, IoT sensor pipelines feeding directly into ML inference, and a multi-tenant SaaS risk platform built with production concerns (A/B testing, feature stores, monitoring) from day one.
+I'm looking for opportunities where I can contribute to **AI/ML, data science, or software engineering** while continuing to strengthen my engineering and deployment skills.
 
 <div align="center">
 
 | | |
 |---|---|
-| 🎓 **Education** | MCA — Data Science & IoT, Lovely Professional University |
-| 📍 **Location** | Varanasi, Uttar Pradesh, India |
-| 💼 **Status** | Open to ML / Data Science roles and freelance consulting |
-| 🤝 **Collaboration** | Research discussions, MLOps and Generative AI projects, open-source |
-| 🔭 **Currently building** | Multi-tenant ML platforms with feature stores & vector search |
-| 🌱 **Currently learning** | Transformers, RAG architectures, streaming ML, edge AI |
+| 🎓 **Education** | MCA — Data Science, Lovely Professional University |
+| 📚 **Academic performance** | CGPA details: MCA 8.00/10; overall/current academic CGPA 8.22/10 |
+| 🏆 **Achievements** | 5th place — Inter-University IoT Hackathon; Best Project Award — School of Computer Applications (Data Science) |
+| 💼 **Status** | Open to AI/ML Engineer, Data Science, and Software Developer opportunities |
+| 🤝 **Collaboration** | Applied AI/ML, data science, software projects, and open source |
+| 🌱 **Currently learning** | Transformers, RAG architectures, MLOps, and practical model deployment |
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0A0A23&height=3&section=header" width="100%"/>
+
+## 🏆 Achievements
+
+- **5th Place — Inter-University IoT Hackathon**
+- **Best Project Award — School of Computer Applications, Data Science**
+
+These achievements reflect hands-on project work and collaboration. Add official event or award links here if you have them.
 
 ## 🧩 Core Competencies
 
@@ -308,11 +311,11 @@ The goal is always to move from **"training a model"** to **engineering a comple
 
 ## 🤝 Open To
 
-- Full-time or contract roles in Machine Learning / Data Science / MLOps
-- Research collaborations and applied ML case studies
-- Generative AI and RAG-based product development
-- IoT + AI integration projects
-- Open-source contribution on ML tooling and infrastructure
+- AI/ML Engineer and Machine Learning Intern roles
+- Data Science and Data Analyst opportunities
+- Software Developer / Python Developer roles
+- Applied AI, Generative AI, and RAG-based projects
+- IoT + AI integration and open-source collaborations
 
 <div align="center">
 
