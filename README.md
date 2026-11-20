@@ -206,17 +206,6 @@ A deep-learning system for automatic detection and segmentation of hypodense reg
 
 ---
 
-### 📰 [Regional News Sentiment Analysis](https://github.com/Ashwani4545/feedback-on-news-in-regional-media-ML)
-An NLP tool that analyzes regional-language news coverage to surface sentiment, generate summaries, and detect trends — supporting transparent, multi-language media analysis.
-
-- Multi-language sentiment pipeline built for regional media, not just English-language corpora
-- Automated summarization to make large volumes of coverage scannable
-- Designed for transparency in how media narratives shift over time
-
-`NLP` `Sentiment Analysis` `Python` `Multilingual Text Processing`
-
----
-
 ### ⚡ [Energy Consumption Optimization](https://github.com/Ashwani4545/Energy-Consumption-Optimization-using-IoT-Machine-Learning)
 An IoT + ML system that monitors real-world energy consumption via ESP32 sensors and applies machine learning to identify optimization opportunities.
 
