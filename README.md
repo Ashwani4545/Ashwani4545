@@ -195,20 +195,6 @@ A multi-tenant machine learning platform designed for production risk-prediction
 
 ---
 
-### 📦 [E-Commerce Delivery Prediction](https://github.com/Ashwani4545/E-CommerceProductDeliveryPrediction)
-An end-to-end ML system that predicts delivery delays for e-commerce orders, built as a full pipeline rather than a model file.
-
-- **Modeling**: Gradient-boosted models (LightGBM, XGBoost) tuned for delay classification
-- **Explainability**: SHAP values expose which features drive each individual prediction, making the model auditable by non-technical stakeholders
-- **MLOps**: MLflow for experiment tracking, DVC for dataset/model versioning
-- **Deployment**: FastAPI backend serving predictions, Streamlit front-end for interactive use, containerized with Docker
-- **CI/CD**: GitHub Actions automate testing and deployment
-- **Business Layer**: Power BI dashboard translating model output into operational insight
-
-`LightGBM` `XGBoost` `MLflow` `DVC` `FastAPI` `Streamlit` `Docker` `SHAP` `Power BI`
-
----
-
 ### 🧠 [mediAssist.AI](https://github.com/Ashwani4545/mediAssist.AI)
 A deep-learning system for automatic detection and segmentation of hypodense regions — such as stroke and edema — in brain NCCT (non-contrast CT) scans.
 
